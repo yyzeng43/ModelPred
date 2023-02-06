@@ -1,5 +1,6 @@
 # ModelPred
-Repository for paper "ModelPred: A Framework for Predicting Trained Model from Training Data" 2023 SaTML submission
+Repository for paper "[ModelPred: A Framework for Predicting Trained Model from Training Data](http://128.84.21.203/abs/2111.12545)" 2023 SaTML submission.
+
 # Learning to Refit for Convex Learning Problems
 
 # Requirements

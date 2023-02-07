@@ -34,5 +34,5 @@ To run the experiment, run this command:
 LR_Shapley.py --sampling Perm --maxiter 50 --rawdatapth  --modelpath  --savepath
 
 Please make sure the data_path (where you save the raw data),
-save_path (where you save the training samples for OptLearn),
+save_path (where you save the training samples for ModelPred),
 result_path (where you save all the results), and model_path (where you save the trained models) are all correctly configured.

@@ -1,12 +1,12 @@
 # ModelPred
 Repository for paper "[ModelPred: A Framework for Predicting Trained Model from Training Data](http://128.84.21.203/abs/2111.12545)" 2023 SaTML submission.
 
-# Learning to Refit for Convex Learning Problems
+# ModelPred: A Framework for Predicting Trained Model from Training Data
 
 # Requirements
 You can first install the environment specified in the requirements.txt
 
-## optLearn DNN model training
+## ModelPred DNN model training
 Logistic Regression as the base model:
 Iris_LR.py, spam_LR.py, HIGGS_LR.py, MNIST_LR.py
 Support Vector Machine as the base model:
